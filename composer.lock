@@ -1746,16 +1746,16 @@
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
         },
         {
-            "name": "wpackagist-theme/ultimate",
-            "version": "1.7",
+            "name": "wpackagist-theme/talon",
+            "version": "1.06",
             "source": {
                 "type": "svn",
-                "url": "https://themes.svn.wordpress.org/ultimate/",
-                "reference": "3.0.3"
+                "url": "https://themes.svn.wordpress.org/talon/",
+                "reference": "1.06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/ultimate.3.0.3.zip",
+                "url": "https://downloads.wordpress.org/theme/talon.1.06.zip",
                 "reference": null,
                 "shasum": null
             },

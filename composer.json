@@ -28,7 +28,7 @@
 		"wpackagist-plugin/amazon-s3-and-cloudfront": "^0.9.11",
 		"wpackagist-plugin/sendgrid-email-delivery-simplified": "^1.7",
 		"wp-cli/wp-cli": "^1.1.0",
-		"wpackagist-theme/ultimate": "^3.0.3"
+		"wpackagist-theme/talon": "^1.06"
 	},
 	"scripts": {
 		"wordpress-setup-core-install-prompt": "wp core install --prompt",
