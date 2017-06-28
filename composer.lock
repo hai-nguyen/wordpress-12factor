@@ -1746,16 +1746,16 @@
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
         },
         {
-            "name": "wpackagist-theme/twentyfifteen",
+            "name": "wpackagist-theme/ultimate",
             "version": "1.7",
             "source": {
                 "type": "svn",
-                "url": "https://themes.svn.wordpress.org/twentyfifteen/",
-                "reference": "1.7"
+                "url": "https://themes.svn.wordpress.org/ultimate/",
+                "reference": "3.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentyfifteen.1.7.zip",
+                "url": "https://downloads.wordpress.org/theme/ultimate.3.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1763,7 +1763,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-theme",
-            "homepage": "https://wordpress.org/themes/twentyfifteen/"
+            "homepage": "https://wordpress.org/themes/ultimate/"
         }
     ],
     "packages-dev": [
