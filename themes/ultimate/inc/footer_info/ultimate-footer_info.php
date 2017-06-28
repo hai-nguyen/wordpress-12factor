@@ -30,7 +30,7 @@ function ultimate_site_link() {
  * @return string
  */
 function ultimate_wp_link() {
-   return '<a href="'.esc_url( 'http://wordpress.org' ).'" target="_blank" title="' . esc_attr__( 'WordPress', 'ultimate' ) . '"><span>' . __( 'WordPress', 'ultimate' ) . '</span></a>';
+   return '';
 }
 /**
  * To display a link to ultimate.com.
@@ -38,6 +38,6 @@ function ultimate_wp_link() {
  * @return string
  */
 function ultimate_themehorse_link() {
-   return '<a href="'.esc_url( 'http://themehorse.com' ).'" target="_blank" title="'.esc_attr__( 'Theme Horse', 'ultimate' ).'" ><span>'.__( 'Theme Horse', 'ultimate') .'</span></a>';
+   return '';
 }
 ?>
