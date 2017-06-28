@@ -28,8 +28,7 @@
 		"wpackagist-plugin/amazon-s3-and-cloudfront": "^0.9.11",
 		"wpackagist-plugin/sendgrid-email-delivery-simplified": "^1.7",
 		"wp-cli/wp-cli": "^1.1.0",
-		"wpackagist-theme/ultimate": "^3.0.3",
-		"dzuelke/ultimate": "*"
+		"wpackagist-theme/ultimate": "^3.0.3"
 	},
 	"scripts": {
 		"wordpress-setup-core-install-prompt": "wp core install --prompt",
@@ -48,7 +47,7 @@
 			"@wordpress-setup-enable-plugins",
 			"@wordpress-setup-permalink-structure"
 		],
-		"wordpress-setup-demo-theme": "wp theme activate twentyfifteen-child",
+		"wordpress-setup-demo-theme": "wp theme activate ultimate",
 		"wordpress-setup-welcome-post": [
 			"echo 'It works! Please see <a href=\"https://github.com/dzuelke/wordpress-12factor\">wordpress-12factor on GitHub</a> for info and post-install instructions.' | wp post update 1 - --post_title=\"Welcome to WordPress on Heroku\""
 		]
