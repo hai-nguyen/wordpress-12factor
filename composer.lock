@@ -1763,7 +1763,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-theme",
-            "homepage": "https://wordpress.org/themes/ultimate/"
+            "homepage": "https://wordpress.org/themes/talon/“
         }
     ],
     "packages-dev": [
