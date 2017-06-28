@@ -41,7 +41,7 @@ add_action( 'ultimate_footer', 'ultimate_footer_info', 30 );
  * function to show the footer info, copyright information
  */
 function ultimate_footer_info() {         
-   $output = '<div class="copyright">'.__( 'Copyright &copy;', 'ultimate' ).' '.ultimate_the_year().' ' .ultimate_site_link().' | ' . ' '.__( 'Theme by:', 'ultimate' ).' '.ultimate_themehorse_link().' | '.' '.__( 'Powered by:', 'ultimate' ).' '.ultimate_wp_link() .'</div><!-- .copyright -->';
+   $output = '<div class="copyright">'.__( 'Copyright &copy;', 'ultimate' ).' '.ultimate_the_year().' ' .ultimate_site_link().'</div><!-- .copyright -->';
    echo $output;
 }
 /****************************************************************************************/
