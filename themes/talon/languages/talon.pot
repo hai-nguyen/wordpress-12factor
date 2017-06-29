@@ -1381,12 +1381,12 @@ msgstr ""
 
 #: inc/functions/functions-footer.php:24
 #, php-format
-msgid "Powered by %s"
+msgid ""
 msgstr ""
 
 #: inc/functions/functions-footer.php:26
 #, php-format
-msgid "Theme: %2$s by %1$s."
+msgid ""
 msgstr ""
 
 #: inc/template-tags.php:30
